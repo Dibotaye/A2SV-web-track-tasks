@@ -1,6 +1,6 @@
-# Modern To-Do Application
+# my To-Do App
 
-A sleek and modern To-Do application built with React, TypeScript, and Vite.
+To-Do application built with React, TypeScript, and Vite.
 
 ### Main Page
 
@@ -18,13 +18,10 @@ Tasks can be deleted by clicking the Delete button.
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
-- Modern and responsive UI
-- Interactive animations and transitions
-- Glassmorphism design
 
 ## Tech Stack
 
-- React 18
+- React 
 - TypeScript
 - Vite
 - CSS3
@@ -59,7 +56,6 @@ npm run preview
 
 ```
 src/
-├── assets/        # Static assets
 ├── components/    # React components
 └── App.tsx        # Main application component
 ```
