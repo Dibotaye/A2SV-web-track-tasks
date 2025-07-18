@@ -4,12 +4,12 @@ A sleek and modern To-Do application built with React, TypeScript, and Vite.
 
 ### Main Page
 
-![Main View](/screenshots/Screenshot%202025-07-18%20183134.png)
+![Main View](./screenshots/Screenshot%202025-07-18%20183134.png)
 This is the main page where you can enter tasks.
 
 ### Editing and delete a Task
 
-![Edit Task and Delete Task](/screenshots/Screenshot%202025-07-18%20183436.png)
+![Edit Task and Delete Task](./screenshots/Screenshot%202025-07-18%20183436.png)
 Tasks can be edited by clicking the Edit button.
 Tasks can be deleted by clicking the Delete button.
 
