@@ -45,7 +45,7 @@ Invalid when a user does not Ensert a Message
 
    ```bash
    git clone https://github.com/Dibotaye/A2SV-web-track-tasks/tree/main/task_5
-   cd contact-form
+   cd task_5
    ```
 
 2. Install dependencies
