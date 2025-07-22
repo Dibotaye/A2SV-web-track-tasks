@@ -16,6 +16,8 @@ A modern Job Listing web application built with **React**, **TypeScript**, **Vit
 ### job Dashboard page
 
 ![job dashboard page](./screenshots/dashboard1.png)
+
+
 ![job dashboard page](./screenshots/dashboard2.png)
 
 ## Project Structure
