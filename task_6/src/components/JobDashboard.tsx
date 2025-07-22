@@ -37,7 +37,7 @@ interface JobDashboardProps {
 
 const JobDashboard: React.FC<JobDashboardProps> = ({ job, onBack }) => {
   return (
-    <div className="bg-[#ffffff] min-h-screen p-4 font-sans text-gray-800">
+    <div className="bg-[#ffffff] min-h-screen p-4 font-sans text-gray-800 ml-12 w-[1000px]">
       <header className="max-w-7xl mx-auto mb-6 flex items-center justify-between">
         <h1 className="text-2xl sm:text-3xl font-bold text-white">
           Job Description
@@ -51,7 +51,7 @@ const JobDashboard: React.FC<JobDashboardProps> = ({ job, onBack }) => {
         </button>
       </header>
 
-      <main className="bg-white max-w-7xl mx-auto rounded-xl shadow-lg p-6 sm:p-10 flex flex-col lg:flex-row gap-10">
+      <main className="bg-white max-w-7xl mx-auto rounded-xl p-6 sm:p-10 flex flex-col lg:flex-row gap-10">
         <div className="w-full lg:w-2/3">
           <section>
             <h2 className="text-2xl font-bold mb-3">{job.title}</h2>
